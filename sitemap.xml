@@ -23,16 +23,6 @@
   </url>
   
   <url>
-    <loc>/talk/example-talk/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication-type/3/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
   </url>
@@ -58,82 +48,12 @@
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/example/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/terms/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
   </url>
   
@@ -149,31 +69,6 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
   </url>
   
@@ -198,6 +93,10 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
   </url>
@@ -208,18 +107,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/event/</loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
+    <loc></loc>
   </url>
   
 </urlset>
