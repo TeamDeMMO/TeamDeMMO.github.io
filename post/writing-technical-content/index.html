@@ -250,6 +250,44 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131131266-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131131266-4', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -278,9 +316,12 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="twitter:site" content="@OsburnLab">
+  <meta property="twitter:creator" content="@OsburnLab">
+  
+  <meta property="og:site_name" content="DeMMO">
   <meta property="og:url" content="/post/writing-technical-content/">
-  <meta property="og:title" content="Writing technical content in Academic | Academic">
+  <meta property="og:title" content="Writing technical content in Academic | DeMMO">
   <meta property="og:description" content="Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation."><meta property="og:image" content="/post/writing-technical-content/featured.jpg">
   <meta property="twitter:image" content="/post/writing-technical-content/featured.jpg"><meta property="og:locale" content="en-us">
@@ -288,7 +329,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
       <meta property="article:published_time" content="2019-07-12T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-07-12T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-01-16T11:02:00-06:00">
   
 
   
@@ -321,7 +362,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   ],
   
   "datePublished": "2019-07-12T00:00:00Z",
-  "dateModified": "2019-07-12T00:00:00Z",
+  "dateModified": "2021-01-16T11:02:00-06:00",
   
   "author": {
     "@type": "Person",
@@ -330,7 +371,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   "publisher": {
     "@type": "Organization",
-    "name": "Academic",
+    "name": "DeMMO",
     "logo": {
       "@type": "ImageObject",
       "url": "/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
@@ -354,7 +395,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
 
 
-  <title>Writing technical content in Academic | Academic</title>
+  <title>Writing technical content in Academic | DeMMO</title>
 
 </head>
 
@@ -427,7 +468,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -440,7 +481,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -800,8 +841,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     
       
+          Last updated on
+      
     
-    Jul 12, 2019
+    Jan 16, 2021
   </span>
   
 
@@ -878,7 +921,7 @@ data.head()
 <p>Demo:</p>
 
 
-<div id="chart-827194635" class="chart"></div>
+<div id="chart-674921385" class="chart"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -888,7 +931,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-827194635', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-674921385', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1225,18 +1268,16 @@ You found me!
   
   
   
-    
-  
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/"><img class="avatar mr-3 avatar-circle" src="/author/nelson-bighetti/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti"></a>
+      <img class="avatar mr-3 avatar-circle" src="/author/nelson-bighetti/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Nelson Bighetti</a></h5>
+      <h5 class="card-title">Nelson Bighetti</h5>
       <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
       <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
       <ul class="network-icon" aria-hidden="true">

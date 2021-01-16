@@ -246,6 +246,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131131266-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131131266-4', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -274,16 +312,19 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="twitter:site" content="@OsburnLab">
+  <meta property="twitter:creator" content="@OsburnLab">
+  
+  <meta property="og:site_name" content="DeMMO">
   <meta property="og:url" content="/project/external-project/">
-  <meta property="og:title" content="External Project | Academic">
+  <meta property="og:title" content="External Project | DeMMO">
   <meta property="og:description" content="An example of linking directly to an external project website using `external_link`."><meta property="og:image" content="/project/external-project/featured.jpg">
   <meta property="twitter:image" content="/project/external-project/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-01-16T11:02:00-06:00">
   
 
   
@@ -314,7 +355,7 @@
   ],
   
   "datePublished": "2016-04-27T00:00:00Z",
-  "dateModified": "2016-04-27T00:00:00Z",
+  "dateModified": "2021-01-16T11:02:00-06:00",
   
   "author": {
     "@type": "Person",
@@ -323,7 +364,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Academic",
+    "name": "DeMMO",
     "logo": {
       "@type": "ImageObject",
       "url": "/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
@@ -347,7 +388,7 @@
 
 
 
-  <title>External Project | Academic</title>
+  <title>External Project | DeMMO</title>
 
 </head>
 
@@ -420,7 +461,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -433,7 +474,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -795,8 +836,10 @@
     
     
       
+          Last updated on
+      
     
-    Apr 27, 2016
+    Jan 16, 2021
   </span>
   
 
@@ -1000,18 +1043,16 @@
   
   
   
-    
-  
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/"><img class="avatar mr-3 avatar-circle" src="/author/nelson-bighetti/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti"></a>
+      <img class="avatar mr-3 avatar-circle" src="/author/nelson-bighetti/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Nelson Bighetti</a></h5>
+      <h5 class="card-title">Nelson Bighetti</h5>
       <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
       <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
       <ul class="network-icon" aria-hidden="true">

@@ -34,7 +34,7 @@
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="Homepage for the Deep Mine Microbial Observatory">
 
   
   <link rel="alternate" hreflang="en-us" href="/">
@@ -246,6 +246,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131131266-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131131266-4', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -257,7 +295,7 @@
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="DeMMO">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -279,10 +317,13 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="twitter:site" content="@OsburnLab">
+  <meta property="twitter:creator" content="@OsburnLab">
+  
+  <meta property="og:site_name" content="DeMMO">
   <meta property="og:url" content="/">
-  <meta property="og:title" content="Academic">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
+  <meta property="og:title" content="DeMMO">
+  <meta property="og:description" content="Homepage for the Deep Mine Microbial Observatory"><meta property="og:image" content="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
@@ -305,7 +346,29 @@
 
 
   
-
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "@id": "/",
+  "name": "DeMMO",
+  "logo": "/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png",
+  
+  
+  
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "630 E Summit St",
+    "addressLocality": "Lead",
+    "addressRegion": "SD",
+    "postalCode": "57754",
+    "addressCountry": "US"
+  },
+  
+  "telephone": "847 491 4254",
+  "url": "/"
+}
+</script>
 
   
 
@@ -313,10 +376,13 @@
   
 
 
+  
 
 
 
-  <title>Academic</title>
+
+
+  <title>DeMMO</title>
 
 </head>
 
@@ -389,7 +455,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -402,7 +468,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -1789,8 +1855,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     
       
+          Last updated on
+      
     
-    Jul 12, 2019
+    Jan 16, 2021
   </span>
   
 
@@ -1898,7 +1966,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
           Last updated on
       
     
-    Sep 5, 2019
+    Jan 16, 2021
   </span>
   
 
@@ -2007,7 +2075,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
           Last updated on
       
     
-    Dec 13, 2020
+    Jan 16, 2021
   </span>
   
 
@@ -2106,8 +2174,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     
       
+          Last updated on
+      
     
-    Jul 23, 2015
+    Jan 16, 2021
   </span>
   
 
@@ -4105,7 +4175,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/f/test"  >
+      <form name="contact" method="POST" action="https://formspree.io/f/xleoaqqg"  >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -4129,14 +4199,14 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     <li>
       <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-      <span id="person-email"><a href="mailto:test@example.org">test@example.org</a></span>
+      <span id="person-email"><a href="mailto:maggie%20at%20northwestern.edu">maggie at northwestern.edu</a></span>
     </li>
     
 
     
     <li>
       <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-      <span id="person-telephone"><a href="tel:888%20888%2088%2088">888 888 88 88</a></span>
+      <span id="person-telephone"><a href="tel:847%20491%204254">847 491 4254</a></span>
     </li>
     
 
@@ -4145,29 +4215,14 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">450 Serra Mall, Stanford, CA 94305</span>
+        <span id="person-address">630 E Summit St, Lead, SD 57754</span>
       </li>
     
 
     
-    <li>
-      <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-      <span>Enter Building 1 and take the stairs to Office 200 on Floor 2</span>
-    </li>
-    
 
     
-    <li>
-      <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-      <span>Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00</span>
-    </li>
-    
 
-    
-    <li>
-      <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-      <a href="https://calendly.com" target="_blank" rel="noopener">Book an appointment</a>
-    </li>
     
 
     
@@ -4185,53 +4240,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     <li>
       <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-      <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">DM Me</a>
-    </li>
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-      <a href="skype:echo123?call" >Skype Me</a>
-    </li>
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
-      <a href="https://keybase.io/" target="_blank" rel="noopener">Chat on Keybase</a>
-    </li>
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <i class="fa-li fas fa-comments fa-2x" aria-hidden="true"></i>
-      <a href="https://discourse.gohugo.io" target="_blank" rel="noopener">Discuss on Forum</a>
+      <a href="https://twitter.com/OsburnLab" target="_blank" rel="noopener">Follow Us</a>
     </li>
     
 
@@ -4240,9 +4249,9 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   <div class="d-none">
     <input id="map-provider" value="2">
-    <input id="map-lat" value="37.4275">
-    <input id="map-lng" value="-122.1697">
-    <input id="map-dir" value="450 Serra Mall, Stanford, CA 94305">
+    <input id="map-lat" value="44.35">
+    <input id="map-lng" value="-103.75">
+    <input id="map-dir" value="630 E Summit St, Lead, SD 57754">
     <input id="map-zoom" value="15">
     <input id="map-api-key" value="">
   </div>

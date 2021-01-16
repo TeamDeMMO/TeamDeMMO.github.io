@@ -34,7 +34,7 @@
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="Homepage for the Deep Mine Microbial Observatory">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/source-themes/">
@@ -246,16 +246,54 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131131266-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131131266-4', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
 
   
 
+  
+
 
   
   
 
   
-  <link rel="alternate" href="/tag/source-themes/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/tag/source-themes/index.xml" type="application/rss+xml" title="DeMMO">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -277,10 +315,13 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="twitter:site" content="@OsburnLab">
+  <meta property="twitter:creator" content="@OsburnLab">
+  
+  <meta property="og:site_name" content="DeMMO">
   <meta property="og:url" content="/tag/source-themes/">
-  <meta property="og:title" content="Source Themes | Academic">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
+  <meta property="og:title" content="Source Themes | DeMMO">
+  <meta property="og:description" content="Homepage for the Deep Mine Microbial Observatory"><meta property="og:image" content="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2019-04-07T00:00:00&#43;00:00">
@@ -300,7 +341,7 @@
 
 
 
-  <title>Source Themes | Academic</title>
+  <title>Source Themes | DeMMO</title>
 
 </head>
 
@@ -373,7 +414,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
@@ -386,7 +427,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">DeMMO</a>
     </div>
     
 
