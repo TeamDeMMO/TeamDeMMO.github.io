@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biomarkers | DeMMO</title>
+    <link>/tag/biomarkers/</link>
+      <atom:link href="/tag/biomarkers/index.xml" rel="self" type="application/rss+xml" />
+    <description>biomarkers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3d7dc1879532a2961355b1afc24608a4_16249_512x512_fill_lanczos_center_2.png</url>
+      <title>biomarkers</title>
+      <link>/tag/biomarkers/</link>
+    </image>
+    
+    <item>
+      <title>DeMMO Biomarkers</title>
+      <link>/project/biomarkers/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/biomarkers/</guid>
+      <description>&lt;p&gt;Lipids are a major focus for biomarker detection on other planets because they are the dominant component of microbial cell membranes and they persist in the terrestrial rock record over billion-year timescales. It is important to characterize lipids produced by microbes living in environments on Earth that are analogous to environments on other planets to inform the search for extraterrestrial life.&lt;/p&gt;
+&lt;p&gt;We capture microbes suspended in DeMMO fracture fluids on filters, and from the filters we extract bulk lipids from the microbial communities.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/filter.JPG&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Iron oxides on a filter collected from DeMMO.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

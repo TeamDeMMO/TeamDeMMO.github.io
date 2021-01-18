@@ -108,13 +108,58 @@
   </url>
   
   <url>
+    <loc>/privacy/</loc>
+    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/biofilms/</loc>
+    <lastmod>2021-01-16T18:34:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biomarkers/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/culturing/</loc>
     <lastmod>2021-01-16T18:34:20-06:00</lastmod>
   </url>
   
   <url>
     <loc>/project/biofilms/</loc>
     <lastmod>2021-01-16T18:34:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/biomarkers/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/culturing/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/metagenomes/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/metagenomics/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/microbial-dark-matter/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

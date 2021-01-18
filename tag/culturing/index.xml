@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>culturing | DeMMO</title>
+    <link>/tag/culturing/</link>
+      <atom:link href="/tag/culturing/index.xml" rel="self" type="application/rss+xml" />
+    <description>culturing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3d7dc1879532a2961355b1afc24608a4_16249_512x512_fill_lanczos_center_2.png</url>
+      <title>culturing</title>
+      <link>/tag/culturing/</link>
+    </image>
+    
+    <item>
+      <title>DeMMO Biofilms</title>
+      <link>/project/biofilms/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/biofilms/</guid>
+      <description>&lt;p&gt;Biofilms are thin, slimy films of microbes like bacteria and archaea that adhere to fracture surfaces at DeMMO. Living in a biofilm has lots of potential advantages in the deep subsurface, such as making it easier to access nutrients, exchange DNA with other microbes nearby, or getting closer to a tasty mineral in the rock.&lt;/p&gt;
+&lt;p&gt;We deploy in situ cultivation experiments at DeMMO boreholes to target the growth of biofilm communities. These ongoing experiments will shed light on which microbes can eat minerals in the rocks at DeMMO. Minerals are likely an important source of energy for life in the rocky subsurface on Earth, and could also be an energy source in extraterrestrial rocky subsurface environments. Understanding the role that minerals play in subsurface habitability at DeMMO will inform our understanding of habitability on other planets like Mars.&lt;/p&gt;
+&lt;p&gt;The image below is a scanning electron micrograph of a DeMMO biofilm on a mineral surface. The cells are about 1 micron in diameter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/biofilm.jpg&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DeMMO Culturing</title>
+      <link>/project/culturing/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/culturing/</guid>
+      <description>&lt;p&gt;We culture microbes collected from DeMMO under controlled laboratory conditions. Through our culture experiments, we are able to characterize metabolic function in DeMMO communities. We are working to isolate important members of the communities so that we can describe their specific roles in detail. This work requires specialized equipment because the fracture fluids are anoxic. We use an anaerobic Coy chamber and mix our own gases with a custom-built gas manifold.&lt;/p&gt;
+&lt;p&gt;Our experiments target both microbes suspended in fluids and in biofilms. The image below shows continuous flow experiments targeting DeMMO biofilms on native host rock.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/culture_experiments.JPG&#34; alt=&#34;bioreactors&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Bioreactor experiments in the Osburn Bug Lab.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DeMMO Metagenomics</title>
+      <link>/project/metagenomes/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/metagenomes/</guid>
+      <description>&lt;p&gt;Metagenomes are a collection of all the DNA from an environment. We collect DNA from fracture fluids at DeMMO to characterize the genes in the microbial communities. Characterizing the genes helps us to understand how these organisms are functioning at DeMMO. In particular, we&amp;rsquo;re interested in how these microbes get their carbon and energy in the deep subsurface, which helps us understand the habitability of this extreme environment.&lt;/p&gt;
+&lt;p&gt;These genes also tell us about the identity of the microbes - or lack thereof. Many of the microbes inhabiting DeMMO have never been cultured before, and we only know they exist because we&amp;rsquo;ve detected their DNA. These microbes constitue the Microbial Dark Matter and make up greater than 50% of some DeMMO communities.&lt;/p&gt;
+&lt;p&gt;We are currently using the metagenomes to guide cultivation efforts targeting Microbial Dark Matter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/culturing_dark_matter.jpg&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Caitlin, Lily, and Caroline setting up cultures in the Osburn Bug Lab.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

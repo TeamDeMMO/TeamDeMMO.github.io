@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metagenomics | DeMMO</title>
+    <link>/tag/metagenomics/</link>
+      <atom:link href="/tag/metagenomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>metagenomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3d7dc1879532a2961355b1afc24608a4_16249_512x512_fill_lanczos_center_2.png</url>
+      <title>metagenomics</title>
+      <link>/tag/metagenomics/</link>
+    </image>
+    
+    <item>
+      <title>DeMMO Metagenomics</title>
+      <link>/project/metagenomes/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/metagenomes/</guid>
+      <description>&lt;p&gt;Metagenomes are a collection of all the DNA from an environment. We collect DNA from fracture fluids at DeMMO to characterize the genes in the microbial communities. Characterizing the genes helps us to understand how these organisms are functioning at DeMMO. In particular, we&amp;rsquo;re interested in how these microbes get their carbon and energy in the deep subsurface, which helps us understand the habitability of this extreme environment.&lt;/p&gt;
+&lt;p&gt;These genes also tell us about the identity of the microbes - or lack thereof. Many of the microbes inhabiting DeMMO have never been cultured before, and we only know they exist because we&amp;rsquo;ve detected their DNA. These microbes constitue the Microbial Dark Matter and make up greater than 50% of some DeMMO communities.&lt;/p&gt;
+&lt;p&gt;We are currently using the metagenomes to guide cultivation efforts targeting Microbial Dark Matter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/culturing_dark_matter.jpg&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Caitlin, Lily, and Caroline setting up cultures in the Osburn Bug Lab.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

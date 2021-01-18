@@ -406,6 +406,24 @@ Three
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DeMMO Biofilms</title>
       <link>/project/biofilms/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -415,6 +433,40 @@ Three
 &lt;p&gt;The image below is a scanning electron micrograph of a DeMMO biofilm on a mineral surface. The cells are about 1 micron in diameter.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/media/biofilm.jpg&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DeMMO Biomarkers</title>
+      <link>/project/biomarkers/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/biomarkers/</guid>
+      <description>&lt;p&gt;Lipids are a major focus for biomarker detection on other planets because they are the dominant component of microbial cell membranes and they persist in the terrestrial rock record over billion-year timescales. It is important to characterize lipids produced by microbes living in environments on Earth that are analogous to environments on other planets to inform the search for extraterrestrial life.&lt;/p&gt;
+&lt;p&gt;We capture microbes suspended in DeMMO fracture fluids on filters, and from the filters we extract bulk lipids from the microbial communities.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/filter.JPG&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Iron oxides on a filter collected from DeMMO.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DeMMO Culturing</title>
+      <link>/project/culturing/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/culturing/</guid>
+      <description>&lt;p&gt;We culture microbes collected from DeMMO under controlled laboratory conditions. Through our culture experiments, we are able to characterize metabolic function in DeMMO communities. We are working to isolate important members of the communities so that we can describe their specific roles in detail. This work requires specialized equipment because the fracture fluids are anoxic. We use an anaerobic Coy chamber and mix our own gases with a custom-built gas manifold.&lt;/p&gt;
+&lt;p&gt;Our experiments target both microbes suspended in fluids and in biofilms. The image below shows continuous flow experiments targeting DeMMO biofilms on native host rock.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/culture_experiments.JPG&#34; alt=&#34;bioreactors&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Bioreactor experiments in the Osburn Bug Lab.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DeMMO Metagenomics</title>
+      <link>/project/metagenomes/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/metagenomes/</guid>
+      <description>&lt;p&gt;Metagenomes are a collection of all the DNA from an environment. We collect DNA from fracture fluids at DeMMO to characterize the genes in the microbial communities. Characterizing the genes helps us to understand how these organisms are functioning at DeMMO. In particular, we&amp;rsquo;re interested in how these microbes get their carbon and energy in the deep subsurface, which helps us understand the habitability of this extreme environment.&lt;/p&gt;
+&lt;p&gt;These genes also tell us about the identity of the microbes - or lack thereof. Many of the microbes inhabiting DeMMO have never been cultured before, and we only know they exist because we&amp;rsquo;ve detected their DNA. These microbes constitue the Microbial Dark Matter and make up greater than 50% of some DeMMO communities.&lt;/p&gt;
+&lt;p&gt;We are currently using the metagenomes to guide cultivation efforts targeting Microbial Dark Matter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/culturing_dark_matter.jpg&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
+&lt;p id=&#34;caption&#34;&gt;Caitlin, Lily, and Caroline setting up cultures in the Osburn Bug Lab.&lt;/p&gt;</description>
     </item>
     
     <item>
