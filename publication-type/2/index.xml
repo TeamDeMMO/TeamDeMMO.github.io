@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu3d7dc1879532a2961355b1afc24608a4_16249_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Mineral‐hosted biofilm communities in the continental deep subsurface, Deep Mine Microbial Observatory, SD, USA</title>
-      <link>/publication/casar2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/casar2020/</guid>
+      <title>Electrochemical evidence for in situ microbial activity at the Deep Mine Microbial Observatory (DeMMO), South Dakota, USA</title>
+      <link>/publication/rowe/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rowe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mineral‐hosted biofilm communities in the continental deep subsurface, Deep Mine Microbial Observatory, SD, USA</title>
-      <link>/publication/rowe/</link>
+      <link>/publication/casar2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rowe/</guid>
+      <guid>/publication/casar2020/</guid>
       <description></description>
     </item>
     
