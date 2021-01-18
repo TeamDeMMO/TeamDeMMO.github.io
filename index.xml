@@ -415,24 +415,6 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>DeMMO Biofilms</title>
       <link>/project/biofilms/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -476,6 +458,22 @@ Three
 &lt;p&gt;We are currently using the metagenomes to guide cultivation efforts targeting Microbial Dark Matter.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/media/culturing_dark_matter.jpg&#34; alt=&#34;biofilm&#34;&gt;&lt;/p&gt;
 &lt;p id=&#34;caption&#34;&gt;Caitlin, Lily, and Caroline setting up cultures in the Osburn Bug Lab.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cultivating the Deep Subsurface Microbiome</title>
+      <link>/talk/cultivating-the-deep-subsurface-microbiome/</link>
+      <pubDate>Fri, 28 Apr 2017 15:00:00 +0000</pubDate>
+      <guid>/talk/cultivating-the-deep-subsurface-microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishment of the Deep Mine Microbial Observatory (DeMMO).</title>
+      <link>/talk/establishment-of-the-deep-mine-microbial-observatory-demmo./</link>
+      <pubDate>Tue, 25 Apr 2017 13:30:00 +0000</pubDate>
+      <guid>/talk/establishment-of-the-deep-mine-microbial-observatory-demmo./</guid>
+      <description></description>
     </item>
     
     <item>
