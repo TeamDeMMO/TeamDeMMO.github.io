@@ -5,12 +5,21 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu3d7dc1879532a2961355b1afc24608a4_16249_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Rock-Hosted Subsurface Biofilms: Mineral Selectivity Drives Hotspots for Intraterrestrial Life</title>
+      <link>/publication/casar2021/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/casar2021/</guid>
+      <description>&lt;p&gt;Supplementary &lt;a href=&#34;https://github.com/CaitlinCasar/Casar2021_DeMMO_RockHostedBiofilms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Electrochemical evidence for in situ microbial activity at the Deep Mine Microbial Observatory (DeMMO), South Dakota, USA</title>

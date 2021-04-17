@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>DeMMO</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu3d7dc1879532a2961355b1afc24608a4_16249_512x512_fill_lanczos_center_2.png</url>
       <title>DeMMO</title>
@@ -55,184 +55,11 @@
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/gallery/</guid>
-      <description>
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0013.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0013_huca212bcbf890281e3496af48eb2525d1_2035069_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0013.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0014.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0014_hu511a5a57dd40595027256b923461ac4e_1386110_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0014.jpg&#34; width=&#34;262&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0019.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0019_huca212bcbf890281e3496af48eb2525d1_1611806_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0019.jpg&#34; width=&#34;245&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0024.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0024_huca212bcbf890281e3496af48eb2525d1_1970300_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0024.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0026.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0026_huca212bcbf890281e3496af48eb2525d1_1367875_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0026.jpg&#34; width=&#34;127&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0030.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0030_huca212bcbf890281e3496af48eb2525d1_1842953_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0030.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0033.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0033_huca212bcbf890281e3496af48eb2525d1_1587928_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0033.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0034.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0034_huca212bcbf890281e3496af48eb2525d1_1659281_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0034.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0036.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0036_huca212bcbf890281e3496af48eb2525d1_1598159_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0036.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0037.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0037_huca212bcbf890281e3496af48eb2525d1_1433637_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0037.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0038.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0038_huca212bcbf890281e3496af48eb2525d1_1317621_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0038.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0042.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0042_huca212bcbf890281e3496af48eb2525d1_1902192_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0042.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0043.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0043_huca212bcbf890281e3496af48eb2525d1_1369509_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0043.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0047.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0047_huca212bcbf890281e3496af48eb2525d1_1400236_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0047.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0050.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0050_huca212bcbf890281e3496af48eb2525d1_1647077_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0050.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0051.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0051_huca212bcbf890281e3496af48eb2525d1_1665974_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0051.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/gallery/gallery/190611-NASA-Astrobiology-0052.jpg&#34; &gt;
-      &lt;img data-src=&#34;/gallery/gallery/190611-NASA-Astrobiology-0052_huca212bcbf890281e3496af48eb2525d1_1833363_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;190611-NASA-Astrobiology-0052.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-    &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
+      <title>Rock-Hosted Subsurface Biofilms: Mineral Selectivity Drives Hotspots for Intraterrestrial Life</title>
+      <link>/publication/casar2021/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/casar2021/</guid>
+      <description>&lt;p&gt;Supplementary &lt;a href=&#34;https://github.com/CaitlinCasar/Casar2021_DeMMO_RockHostedBiofilms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -419,6 +246,24 @@ Three
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
