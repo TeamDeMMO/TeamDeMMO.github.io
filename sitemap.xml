@@ -1,289 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/astrobiology/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/biofilms/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/geobiology/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/casar2021/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/rowe/</loc>
     <lastmod>2021-01-18T13:58:37-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/source-themes/</loc>
     <lastmod>2021-01-18T13:58:37-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/casar2020/</loc>
     <lastmod>2021-01-17T18:19:21-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/migrating/</loc>
     <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/osburn2019/</loc>
     <lastmod>2021-01-17T20:27:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/mineral-hosted-biofilm-communities-in-a-deep-subsurface-mars-analog-system-the-deep-mine-microbial-observatory-sd-usa/</loc>
     <lastmod>2021-01-18T15:31:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/combining-geochemistry-and-microbial-ecology-to-understand-habitability-and-processes-in-the-subsurface-terrestrial-biosphere/</loc>
     <lastmod>2021-01-18T15:31:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/life-in-land-the-deep-continental-biosphere-and-its-implications-for-planetary-habitability/</loc>
     <lastmod>2021-01-18T14:16:25-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2021-01-16T18:34:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2021-01-16T18:34:20-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/biomarkers/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/culturing/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/biofilms/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/biomarkers/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/culturing/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/metagenomes/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/metagenomics/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/microbial-dark-matter/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2021-01-17T20:20:17-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/cultivating-the-deep-subsurface-microbiome/</loc>
     <lastmod>2021-01-18T14:36:02-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/establishment-of-the-deep-mine-microbial-observatory-demmo./</loc>
     <lastmod>2021-01-18T14:36:02-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/people/</loc>
     <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sliders/</loc>
     <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T13:58:37-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:19:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T13:58:37-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:19:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:19:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:19:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-18T13:58:37-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-17T18:19:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2021-01-17T18:00:19-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2021-01-16T11:02:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/event/</loc>
     <lastmod>2021-01-18T15:31:00-06:00</lastmod>
   </url>
-  
 </urlset>
